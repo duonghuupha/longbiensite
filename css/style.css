@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,500i,600|Rubik:400,500,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500,500i,600|Roboto:400,500,700&display=swap");
 
 /**
 * ============================
@@ -84,7 +84,7 @@
 }
 
 .section-ptb-2 {
-    padding-top: 225px;
+    padding-top: 75px;
     padding-bottom: 130px;
 }
 
@@ -258,7 +258,7 @@
     padding: 15px 25px;
     transition: all .4s linear 0s;
     text-transform: uppercase;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 14px;
 }
@@ -636,7 +636,7 @@
 .section-title h2 {
     color: #002147;
     font-size: 50px;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 600;
 }
 
@@ -647,7 +647,7 @@
 }
 
 .sub-title {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 500;
     font-size: 50px;
     color: #002147;
@@ -660,7 +660,7 @@
 }
 
 .sm-sub-title {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 600;
     font-size: 30px;
     color: #002147;
@@ -680,7 +680,7 @@
 .section-title-2 h2 {
     color: #002147;
     font-size: 50px;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 600;
 }
 
@@ -704,7 +704,7 @@
 .section-title-3 h2 {
     color: #002147;
     font-size: 50px;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 600;
 }
 
@@ -728,7 +728,7 @@
 .section-title-6 h2 {
     color: #fff;
     font-size: 50px;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 600;
 }
 
@@ -747,7 +747,7 @@
     font-size: 50px;
     color: #002147;
     position: relative;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 600;
 }
 
@@ -770,7 +770,7 @@
     font-size: 50px;
     color: #002147;
     position: relative;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 600;
 }
 
@@ -788,7 +788,7 @@
     position: relative;
     font-size: 35px;
     color: #002147;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 600;
 }
 
@@ -1290,7 +1290,7 @@
    1. header
 *********************************/
 body {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #666;
     font-size: 16px;
 }
@@ -1837,7 +1837,7 @@ body p {
 .slider-area-2 .slider-content-2 h2 {
     position: relative;
     color: #002147;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 600;
     font-size: 55px;
 }
@@ -1929,7 +1929,7 @@ body p {
 }
 
 .slider-area-3 .slider-content-2 p {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -2099,7 +2099,7 @@ body p {
 
 .slider-content h2 {
     font-weight: 500;
-    font-family: "Poppins";
+    font-family: "Roboto";
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -2546,7 +2546,7 @@ body p {
 }
 
 .feature-content h3 {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 24px;
     font-weight: 600;
     margin-bottom: 0;
@@ -2564,7 +2564,7 @@ body p {
 }
 
 .feature-content-2 h3 {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 24px;
     font-weight: 600;
     margin-bottom: 0;
@@ -2582,7 +2582,7 @@ body p {
 }
 
 .feature-content-3 h3 {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 24px;
     font-weight: 600;
     margin: 0;
@@ -2963,7 +2963,7 @@ body p {
     align-items: center;
     color: #fff;
     padding: 20px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     transition: all .4s linear 0s;
 }
 
@@ -3013,7 +3013,7 @@ body p {
 .member-info-3 h5 {
     color: #002147;
     font-size: 20px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 600;
 }
 
@@ -3026,7 +3026,7 @@ body p {
 .member-info-4 h5 {
     color: #002147;
     font-size: 20px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 600;
 }
 
@@ -3772,7 +3772,7 @@ body p {
 .event-content h2 {
     font-size: 24px;
     margin-bottom: 15px;
-    font-family: "Poppins";
+    font-family: "Roboto";
 }
 
 .event-content h2 a {
@@ -3788,7 +3788,7 @@ body p {
 .event-content-one h2 {
     font-size: 24px;
     margin-bottom: 15px;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 600;
 }
 
@@ -4473,7 +4473,7 @@ body p {
 .blog-lists-wrapper .blog-content-wrapper h4 {
     font-size: 16px;
     font-weight: 600;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 1.5rem;
 }
 
@@ -4481,7 +4481,7 @@ body p {
     color: #002147;
     transition: all .4s linear 0s;
     font-weight: 600;
-    font-family: "Poppins";
+    font-family: "Roboto";
 }
 
 .blog-lists-wrapper .blog-content-wrapper h4 a:hover {
@@ -4512,14 +4512,14 @@ body p {
 .blog-lists-wrapper-2 .blog-content-wrapper h4 {
     font-size: 16px;
     font-weight: 600;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 1.5rem;
 }
 
 .blog-lists-wrapper-2 .blog-content-wrapper h4 a {
     color: #002147;
     transition: all .4s linear 0s;
-    font-family: "Poppins";
+    font-family: "Roboto";
 }
 
 .blog-lists-wrapper-2 .blog-content-wrapper h4 a:hover {
@@ -4554,14 +4554,14 @@ body p {
 .blog-lists-wrapper-3 .blog-content-wrapper h4 {
     font-size: 16px;
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 1.5rem;
 }
 
 .blog-lists-wrapper-3 .blog-content-wrapper h4 a {
     color: #002147;
     transition: all .4s linear 0s;
-    font-family: "Poppins";
+    font-family: "Roboto";
 }
 
 .blog-lists-wrapper-3 .blog-content-wrapper h4 a:hover {
@@ -4617,7 +4617,7 @@ body p {
     font-size: 20px;
     line-height: 1.8rem;
     font-weight: 600;
-    font-family: "Poppins";
+    font-family: "Roboto";
 }
 
 .big-blog-area .blog-text h3 a:hover {
@@ -4660,7 +4660,7 @@ body p {
     text-transform: capitalize;
     font-size: 20px;
     line-height: 1.8rem;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 600;
 }
 
@@ -5095,7 +5095,7 @@ body p {
 }
 
 .subscribe-wrapper h2 {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .subscribe-wrapper input {
@@ -5339,7 +5339,7 @@ body p {
 .featured-2-text h5 {
     color: #002147;
     font-size: 20px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 600;
 }
 
@@ -5484,7 +5484,7 @@ body p {
 .reg-form-area h2 {
     margin-bottom: 30px;
     font-weight: 600;
-    font-family: "Poppins";
+    font-family: "Roboto";
 }
 
 .reg-form-area input {
@@ -5645,7 +5645,7 @@ body p {
 .single-timeline h4 {
     color: #002147;
     font-size: 20px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 600;
 }
 
@@ -5708,7 +5708,7 @@ body p {
 .page-section-title h2 {
     font-size: 50px;
     color: #002147;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 600;
 }
 
@@ -5720,7 +5720,7 @@ body p {
     font-size: 35px;
     color: #002147;
     font-weight: 600;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .half_column_content h6 {
@@ -6158,7 +6158,7 @@ body p {
     color: #002147;
     text-align: center;
     font-weight: 600;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .tag-clouds ul {
@@ -6196,7 +6196,7 @@ body p {
     color: #002147;
     text-align: center;
     padding-bottom: 35px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 600;
 }
 
@@ -6239,7 +6239,7 @@ body p {
 }
 
 .form-group label {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 600;
     color: #002147;
 }
@@ -6492,7 +6492,7 @@ body p {
 .comments-count h2 {
     font-size: 20px;
     color: #002147;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 600;
 }
 
@@ -6541,7 +6541,7 @@ body p {
     font-size: 16px;
     font-weight: 600;
     transition: all .4s linear 0s;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .author-data a:hover {
@@ -6553,7 +6553,7 @@ body p {
     margin-bottom: 5px;
     margin-bottom: 8px;
     margin-top: 8px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .comment-form-wrapper h2 {
@@ -6679,7 +6679,7 @@ body p {
 
 /* Custom CSS */
 .kindergarten .button_two {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .height-470 {
